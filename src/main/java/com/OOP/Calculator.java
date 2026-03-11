@@ -8,5 +8,6 @@ public class Calculator {
     }
     void tambah (int a , int b , int c){
         System.out.println("Hasil : " + (a+b+c));
+        
     }
 }
